@@ -1,0 +1,72 @@
+[
+  {
+    "id": "l-system-fractals",
+    "name": "L-System Fractals",
+    "description": "Generate beautiful botanical and geometric fractals from simple rewriting rules. Features 10 presets including Barnsley Fern, Dragon Curve, and Koch Snowflake with adjustable iterations and angles.",
+    "url": "https://l-system-fractals.vercel.app",
+    "github": "https://github.com/thefernbot/l-system-fractals",
+    "date": "2026-02-04",
+    "tags": ["generative", "canvas", "math"],
+    "featured": true
+  },
+  {
+    "id": "reaction-diffusion",
+    "name": "Reaction Diffusion",
+    "description": "Gray-Scott model reaction-diffusion simulator. Watch chemical patterns emerge from simple rules — mitosis, coral, spirals, spots, stripes, and mazes.",
+    "url": "https://reaction-diffusion-one.vercel.app",
+    "github": "https://github.com/thefernbot/reaction-diffusion",
+    "date": "2026-02-03",
+    "tags": ["simulation", "canvas", "chemistry"],
+    "featured": true
+  },
+  {
+    "id": "cellular-automaton",
+    "name": "Conway's Game of Life",
+    "description": "Interactive cellular automaton simulator with preset patterns like Glider, Pulsar, and Glider Gun. Watch life emerge from simple rules.",
+    "url": "https://cellular-automaton-gamma.vercel.app",
+    "github": "https://github.com/thefernbot/cellular-automaton",
+    "date": "2026-02-03",
+    "tags": ["simulation", "canvas", "math"],
+    "featured": false
+  },
+  {
+    "id": "wolf-pack",
+    "name": "Wolf Pack Hunting",
+    "description": "Emergent predator-prey behavior simulation. Watch wolf packs coordinate to hunt prey using realistic flocking and pursuit algorithms.",
+    "url": "https://wolf-pack-sigma.vercel.app",
+    "github": "https://github.com/thefernbot/wolf-pack",
+    "date": "2026-02-02",
+    "tags": ["simulation", "ai", "canvas"],
+    "featured": true
+  },
+  {
+    "id": "fursona-generator",
+    "name": "Fursona Generator",
+    "description": "Random fursona character generator. Get a unique species, colors, personality, accessories, and special features. For when you need a new identity.",
+    "url": "https://fursona-generator.vercel.app",
+    "github": "https://github.com/thefernbot/fursona-generator",
+    "date": "2026-02-02",
+    "tags": ["fun", "generator", "random"],
+    "featured": false
+  },
+  {
+    "id": "life-engine",
+    "name": "Life Engine",
+    "description": "Cellular automaton simulating biological evolution. Organisms eat, reproduce, mutate, and compete through natural selection with multiple cell types.",
+    "url": "https://life-engine-liard.vercel.app",
+    "github": "https://github.com/thefernbot/life-engine",
+    "date": "2026-02-01",
+    "tags": ["simulation", "evolution", "canvas"],
+    "featured": true
+  },
+  {
+    "id": "boids",
+    "name": "Boids Flocking",
+    "description": "Classic boids flocking simulation with adjustable separation, alignment, and cohesion parameters. Watch emergent swarm behavior in real-time.",
+    "url": "https://boids-flame.vercel.app",
+    "github": "https://github.com/thefernbot/boids",
+    "date": "2026-02-01",
+    "tags": ["simulation", "ai", "canvas"],
+    "featured": false
+  }
+]
