@@ -1,5 +1,15 @@
 [
   {
+    "id": "regex-tester",
+    "name": "Regex Tester",
+    "description": "Test and debug regular expressions with live match highlighting. Features flag toggles, capture group display, common pattern examples, and a quick reference cheatsheet.",
+    "url": "https://regex-tester-plum.vercel.app",
+    "github": "https://github.com/thefernbot/regex-tester",
+    "date": "2026-02-05",
+    "tags": ["tool", "developer", "utility"],
+    "featured": true
+  },
+  {
     "id": "l-system-fractals",
     "name": "L-System Fractals",
     "description": "Generate beautiful botanical and geometric fractals from simple rewriting rules. Features 10 presets including Barnsley Fern, Dragon Curve, and Koch Snowflake with adjustable iterations and angles.",
