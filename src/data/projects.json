@@ -1,5 +1,15 @@
 [
   {
+    "id": "cron-builder",
+    "name": "Cron Expression Builder",
+    "description": "Visual cron expression builder with interactive field selectors, live expression preview, next execution times display, and common presets. Generates human-readable descriptions for any cron schedule.",
+    "url": "https://cron-builder-theta.vercel.app",
+    "github": "https://github.com/thefernbot/cron-builder",
+    "date": "2026-02-06",
+    "tags": ["tool", "developer", "utility"],
+    "featured": true
+  },
+  {
     "id": "regex-tester",
     "name": "Regex Tester",
     "description": "Test and debug regular expressions with live match highlighting. Features flag toggles, capture group display, common pattern examples, and a quick reference cheatsheet.",
