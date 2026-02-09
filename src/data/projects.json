@@ -1,5 +1,15 @@
 [
   {
+    "id": "mandelbrot-explorer",
+    "name": "Mandelbrot Explorer",
+    "description": "Interactive fractal explorer for the Mandelbrot and Julia sets. Click to zoom into infinite complexity, Shift+click to view corresponding Julia sets. Features 6 color palettes and real-time coordinate display.",
+    "url": "https://mandelbrot-explorer-one.vercel.app",
+    "github": "https://github.com/thefernbot/mandelbrot-explorer",
+    "date": "2026-02-07",
+    "tags": ["generative", "canvas", "math"],
+    "featured": true
+  },
+  {
     "id": "cron-builder",
     "name": "Cron Expression Builder",
     "description": "Visual cron expression builder with interactive field selectors, live expression preview, next execution times display, and common presets. Generates human-readable descriptions for any cron schedule.",
