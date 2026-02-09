@@ -1,5 +1,15 @@
 [
   {
+    "id": "langtons-ant",
+    "name": "Langton's Ant",
+    "description": "A two-dimensional Turing machine that produces complex emergent behavior from simple rules. Watch chaos turn to order as the ant builds its famous highway pattern.",
+    "url": "https://langtons-ant-phi.vercel.app",
+    "github": "https://github.com/thefernbot/langtons-ant",
+    "date": "2026-02-08",
+    "tags": ["simulation", "cellular-automata", "canvas"],
+    "featured": true
+  },
+  {
     "id": "mandelbrot-explorer",
     "name": "Mandelbrot Explorer",
     "description": "Interactive fractal explorer for the Mandelbrot and Julia sets. Click to zoom into infinite complexity, Shift+click to view corresponding Julia sets. Features 6 color palettes and real-time coordinate display.",
