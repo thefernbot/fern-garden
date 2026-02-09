@@ -1,5 +1,15 @@
 [
   {
+    "id": "perlin-terrain",
+    "name": "Perlin Noise Terrain",
+    "description": "Procedural terrain generator using layered Perlin noise (fractal Brownian motion). Adjustable octaves, persistence, lacunarity, scale, and three color modes: terrain colors, grayscale heightmap, and topographic map.",
+    "url": "https://perlin-terrain.vercel.app",
+    "github": "https://github.com/thefernbot/perlin-terrain",
+    "date": "2026-02-09",
+    "tags": ["generative", "canvas", "math"],
+    "featured": true
+  },
+  {
     "id": "langtons-ant",
     "name": "Langton's Ant",
     "description": "A two-dimensional Turing machine that produces complex emergent behavior from simple rules. Watch chaos turn to order as the ant builds its famous highway pattern.",
