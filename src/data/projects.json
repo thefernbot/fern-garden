@@ -1,5 +1,15 @@
 [
   {
+    "id": "jwt-decoder",
+    "name": "JWT Decoder",
+    "description": "Decode and inspect JSON Web Tokens in your browser. View header, payload, and signature with human-readable claim descriptions, expiration detection, and example tokens.",
+    "url": "https://jwt-decoder-mauve.vercel.app",
+    "github": "https://github.com/thefernbot/jwt-decoder",
+    "date": "2026-02-11",
+    "tags": ["tool", "developer", "utility"],
+    "featured": true
+  },
+  {
     "id": "gravity-sim",
     "name": "Gravity Simulator",
     "description": "Interactive N-body gravitational simulation. Click and drag to add celestial bodies, watch orbital mechanics play out. Features 6 preset systems including binary stars, figure-8 orbits, and chaotic 3-body problems.",
