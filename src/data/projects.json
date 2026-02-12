@@ -1,5 +1,15 @@
 [
   {
+    "id": "color-picker",
+    "name": "Color Picker",
+    "description": "Visual color tool with HSL controls, harmony generation (complementary, analogous, triadic, split-complementary, tetradic), WCAG contrast checker, and one-click copy in HEX/RGB/HSL formats.",
+    "url": "https://color-picker-zeta-orcin.vercel.app",
+    "github": "https://github.com/thefernbot/color-picker",
+    "date": "2026-02-12",
+    "tags": ["tool", "developer", "design"],
+    "featured": true
+  },
+  {
     "id": "jwt-decoder",
     "name": "JWT Decoder",
     "description": "Decode and inspect JSON Web Tokens in your browser. View header, payload, and signature with human-readable claim descriptions, expiration detection, and example tokens.",
