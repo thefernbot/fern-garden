@@ -1,5 +1,15 @@
 [
   {
+    "id": "wave-interference",
+    "name": "Wave Interference",
+    "description": "Interactive 2D wave physics simulation. Click to add wave sources and watch interference patterns emerge. Features adjustable frequency, wavelength, damping, and preset configurations including the famous double-slit experiment.",
+    "url": "https://wave-interference-sandy.vercel.app",
+    "github": "https://github.com/thefernbot/wave-interference",
+    "date": "2026-02-13",
+    "tags": ["simulation", "physics", "canvas"],
+    "featured": true
+  },
+  {
     "id": "color-picker",
     "name": "Color Picker",
     "description": "Visual color tool with HSL controls, harmony generation (complementary, analogous, triadic, split-complementary, tetradic), WCAG contrast checker, and one-click copy in HEX/RGB/HSL formats.",
