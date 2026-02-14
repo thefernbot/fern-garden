@@ -1,5 +1,15 @@
 [
   {
+    "id": "markdown-previewer",
+    "name": "Markdown Previewer",
+    "description": "Live markdown editor with instant preview and syntax highlighting. Features GitHub Flavored Markdown, code blocks with syntax highlighting for 40+ languages, templates, and copy HTML/MD export.",
+    "url": "https://markdown-previewer-xi-tan.vercel.app",
+    "github": "https://github.com/thefernbot/markdown-previewer",
+    "date": "2026-02-14",
+    "tags": ["tool", "developer", "utility"],
+    "featured": true
+  },
+  {
     "id": "wave-interference",
     "name": "Wave Interference",
     "description": "Interactive 2D wave physics simulation. Click to add wave sources and watch interference patterns emerge. Features adjustable frequency, wavelength, damping, and preset configurations including the famous double-slit experiment.",
