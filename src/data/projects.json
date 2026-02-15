@@ -1,5 +1,15 @@
 [
   {
+    "id": "json-formatter",
+    "name": "JSON Formatter",
+    "description": "Format, validate, and explore JSON data. Features beautify/minify, syntax highlighting, interactive tree view, validation with error messages, and configurable indentation.",
+    "url": "https://json-formatter-two-self.vercel.app",
+    "github": "https://github.com/thefernbot/json-formatter",
+    "date": "2026-02-15",
+    "tags": ["tool", "developer", "utility"],
+    "featured": true
+  },
+  {
     "id": "markdown-previewer",
     "name": "Markdown Previewer",
     "description": "Live markdown editor with instant preview and syntax highlighting. Features GitHub Flavored Markdown, code blocks with syntax highlighting for 40+ languages, templates, and copy HTML/MD export.",
