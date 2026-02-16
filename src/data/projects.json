@@ -1,5 +1,15 @@
 [
   {
+    "id": "qr-generator",
+    "name": "QR Code Generator",
+    "description": "Generate QR codes for URLs, WiFi networks, and contact cards. Customizable colors, size, and error correction levels. Download as PNG or SVG.",
+    "url": "https://qr-generator-gamma-bice.vercel.app",
+    "github": "https://github.com/thefernbot/qr-generator",
+    "date": "2026-02-16",
+    "tags": ["utility", "tool", "generator"],
+    "featured": true
+  },
+  {
     "id": "json-formatter",
     "name": "JSON Formatter",
     "description": "Format, validate, and explore JSON data. Features beautify/minify, syntax highlighting, interactive tree view, validation with error messages, and configurable indentation.",
