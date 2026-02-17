@@ -1,5 +1,15 @@
 [
   {
+    "id": "particle-life",
+    "name": "Particle Life",
+    "description": "Emergent artificial life simulation where particles attract and repel based on type. Watch cells, chains, symbiosis, and hunting behaviors emerge from simple rules.",
+    "url": "https://particle-life-neon.vercel.app",
+    "github": "https://github.com/thefernbot/particle-life",
+    "date": "2026-02-17",
+    "tags": ["simulation", "canvas", "ai", "emergent"],
+    "featured": true
+  },
+  {
     "id": "qr-generator",
     "name": "QR Code Generator",
     "description": "Generate QR codes for URLs, WiFi networks, and contact cards. Customizable colors, size, and error correction levels. Download as PNG or SVG.",
