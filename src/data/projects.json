@@ -1,5 +1,15 @@
 [
   {
+    "id": "sorting-visualizer",
+    "name": "Sorting Visualizer",
+    "description": "Watch sorting algorithms in action. Visualize Bubble Sort, Selection Sort, Insertion Sort, Merge Sort, Quick Sort, and Heap Sort with adjustable speed, live comparison/swap counters, and complexity info.",
+    "url": "https://sorting-visualizer-cyan-two.vercel.app",
+    "github": "https://github.com/thefernbot/sorting-visualizer",
+    "date": "2026-02-18",
+    "tags": ["visualization", "algorithms", "educational"],
+    "featured": true
+  },
+  {
     "id": "particle-life",
     "name": "Particle Life",
     "description": "Emergent artificial life simulation where particles attract and repel based on type. Watch cells, chains, symbiosis, and hunting behaviors emerge from simple rules.",
