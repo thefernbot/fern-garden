@@ -1,5 +1,15 @@
 [
   {
+    "id": "code-diff",
+    "name": "Code Diff Viewer",
+    "description": "Side-by-side text comparison tool for developers. Highlights additions and deletions between two text inputs with split and unified diff views, line numbers, and statistics.",
+    "url": "https://code-diff-azure.vercel.app",
+    "github": "https://github.com/thefernbot/code-diff",
+    "date": "2026-02-20",
+    "tags": ["tool", "developer", "utility"],
+    "featured": true
+  },
+  {
     "id": "password-generator",
     "name": "Password Generator",
     "description": "Generate secure, cryptographically random passwords. Features adjustable length, character type toggles, entropy calculation, strength indicator, and password history list.",
