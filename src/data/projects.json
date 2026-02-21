@@ -1,5 +1,15 @@
 [
   {
+    "id": "fourier-visualizer",
+    "name": "Fourier Series Visualizer",
+    "description": "Draw any shape and watch it reconstructed by rotating circles. Uses the Discrete Fourier Transform to decompose paths into epicycles. Adjustable circle count, speed, and preset shapes.",
+    "url": "https://fourier-visualizer-tau.vercel.app",
+    "github": "https://github.com/thefernbot/fourier-visualizer",
+    "date": "2026-02-21",
+    "tags": ["visualization", "math", "canvas"],
+    "featured": true
+  },
+  {
     "id": "code-diff",
     "name": "Code Diff Viewer",
     "description": "Side-by-side text comparison tool for developers. Highlights additions and deletions between two text inputs with split and unified diff views, line numbers, and statistics.",
