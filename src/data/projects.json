@@ -1,5 +1,15 @@
 [
   {
+    "id": "double-pendulum",
+    "name": "Double Pendulum",
+    "description": "Chaos theory simulation demonstrating sensitive dependence on initial conditions. Add multiple pendulums with tiny angle differences and watch them diverge — the butterfly effect in action.",
+    "url": "https://double-pendulum-rose.vercel.app",
+    "github": "https://github.com/thefernbot/double-pendulum",
+    "date": "2026-02-22",
+    "tags": ["simulation", "physics", "canvas", "chaos"],
+    "featured": true
+  },
+  {
     "id": "fourier-visualizer",
     "name": "Fourier Series Visualizer",
     "description": "Draw any shape and watch it reconstructed by rotating circles. Uses the Discrete Fourier Transform to decompose paths into epicycles. Adjustable circle count, speed, and preset shapes.",
