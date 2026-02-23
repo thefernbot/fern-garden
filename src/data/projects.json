@@ -1,5 +1,15 @@
 [
   {
+    "id": "pathfinding-visualizer",
+    "name": "Pathfinding Visualizer",
+    "description": "Interactive visualization of pathfinding algorithms. Draw walls, set start/end points, and watch BFS, DFS, Dijkstra, A*, and Greedy Best-First Search find the shortest path.",
+    "url": "https://pathfinding-visualizer-xi-livid.vercel.app",
+    "github": "https://github.com/thefernbot/pathfinding-visualizer",
+    "date": "2026-02-23",
+    "tags": ["visualization", "algorithms", "educational"],
+    "featured": true
+  },
+  {
     "id": "double-pendulum",
     "name": "Double Pendulum",
     "description": "Chaos theory simulation demonstrating sensitive dependence on initial conditions. Add multiple pendulums with tiny angle differences and watch them diverge — the butterfly effect in action.",
