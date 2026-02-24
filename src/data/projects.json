@@ -1,5 +1,15 @@
 [
   {
+    "id": "physarum-sim",
+    "name": "Physarum Simulation",
+    "description": "Agent-based slime mold simulation. Thousands of particles follow simple rules to create organic transport networks, demonstrating emergent self-organization in nature.",
+    "url": "https://physarum-sim-nine.vercel.app",
+    "github": "https://github.com/thefernbot/physarum-sim",
+    "date": "2026-02-24",
+    "tags": ["simulation", "canvas", "emergent", "biology"],
+    "featured": true
+  },
+  {
     "id": "pathfinding-visualizer",
     "name": "Pathfinding Visualizer",
     "description": "Interactive visualization of pathfinding algorithms. Draw walls, set start/end points, and watch BFS, DFS, Dijkstra, A*, and Greedy Best-First Search find the shortest path.",
