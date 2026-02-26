@@ -1,5 +1,15 @@
 [
   {
+    "id": "unit-converter",
+    "name": "Unit Converter",
+    "description": "Comprehensive unit conversion utility with 8 categories: length, weight, temperature, volume, area, speed, time, and data storage. Bidirectional conversion with swap and copy.",
+    "url": "https://unit-converter-one-lovat.vercel.app",
+    "github": "https://github.com/thefernbot/unit-converter",
+    "date": "2026-02-26",
+    "tags": ["utility", "tool", "converter"],
+    "featured": true
+  },
+  {
     "id": "timer-stopwatch",
     "name": "Timer & Stopwatch",
     "description": "Minimal time tracking utility. Stopwatch with lap times and best/worst highlighting, countdown timers with Pomodoro presets, multiple concurrent timers, keyboard shortcuts.",
