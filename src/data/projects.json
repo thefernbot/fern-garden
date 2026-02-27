@@ -1,5 +1,15 @@
 [
   {
+    "id": "base64-tool",
+    "name": "Base64 Tool",
+    "description": "Encode and decode text and files to Base64. Supports URL-safe encoding, file-to-data-URL conversion, image preview, and copy functionality.",
+    "url": "https://base64-tool-kappa.vercel.app",
+    "github": "https://github.com/thefernbot/base64-tool",
+    "date": "2026-02-27",
+    "tags": ["tool", "developer", "utility"],
+    "featured": true
+  },
+  {
     "id": "unit-converter",
     "name": "Unit Converter",
     "description": "Comprehensive unit conversion utility with 8 categories: length, weight, temperature, volume, area, speed, time, and data storage. Bidirectional conversion with swap and copy.",
