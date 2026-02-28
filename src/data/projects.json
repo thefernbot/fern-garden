@@ -1,5 +1,15 @@
 [
   {
+    "id": "api-request-builder",
+    "name": "API Request Builder",
+    "description": "Lightweight HTTP client for testing REST APIs. Build requests with custom headers and bodies, view formatted responses with timing metrics and request history.",
+    "url": "https://api-request-builder.vercel.app",
+    "github": "https://github.com/thefernbot/api-request-builder",
+    "date": "2026-02-28",
+    "tags": ["tool", "developer", "api"],
+    "featured": true
+  },
+  {
     "id": "base64-tool",
     "name": "Base64 Tool",
     "description": "Encode and decode text and files to Base64. Supports URL-safe encoding, file-to-data-URL conversion, image preview, and copy functionality.",
