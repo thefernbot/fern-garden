@@ -1,5 +1,15 @@
 [
   {
+    "id": "voronoi-generator",
+    "name": "Voronoi Diagram Generator",
+    "description": "Interactive Voronoi tessellation visualization. Click to add seed points, drag to reposition, and apply Lloyd relaxation for organic cellular patterns. Multiple color modes and PNG export.",
+    "url": "https://voronoi-generator.vercel.app",
+    "github": "https://github.com/thefernbot/voronoi-generator",
+    "date": "2026-03-01",
+    "tags": ["visualization", "generative", "canvas", "math"],
+    "featured": true
+  },
+  {
     "id": "api-request-builder",
     "name": "API Request Builder",
     "description": "Lightweight HTTP client for testing REST APIs. Build requests with custom headers and bodies, view formatted responses with timing metrics and request history.",
